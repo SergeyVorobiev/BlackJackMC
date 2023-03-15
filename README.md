@@ -10,7 +10,7 @@ greedy_factor - percentage of choosing only the best action, should not be 1 to 
 
 file_name - name of the file to save the result of brute forcing into ./blackjack/resources folder.
 
-BlackJackMain.py main() - actual playing to check the result.
+BlackJackEnv.py main() - actual playing to check the result.
 
 Third party libraries such as graphics, pandas, sklearn... can be installed automatically via PyCharm or by using pip.
 
