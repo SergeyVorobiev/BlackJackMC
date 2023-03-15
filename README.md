@@ -12,4 +12,6 @@ file_name - name of the file to save the result of brute forcing into ./blackjac
 
 BlackJackMain.py main() - actual playing to check the result.
 
+Third party libraries such as graphics, pandas, sklearn... can be installed automatically via PyCharm or by using pip.
+
 ![BJTable](https://user-images.githubusercontent.com/17081096/225321795-aee16590-83b3-4dd2-a5ac-0e6c4587e879.jpg)
